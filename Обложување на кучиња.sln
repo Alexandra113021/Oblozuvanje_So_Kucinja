@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обложување на кучиња", "Обложување на кучиња\Обложување на кучиња.csproj", "{11D14D4E-5D7C-47C8-8D8E-AB187D479F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D14D4E-5D7C-47C8-8D8E-AB187D479F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D14D4E-5D7C-47C8-8D8E-AB187D479F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D14D4E-5D7C-47C8-8D8E-AB187D479F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D14D4E-5D7C-47C8-8D8E-AB187D479F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
